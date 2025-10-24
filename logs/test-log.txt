@@ -1,0 +1,10 @@
+[INFO] [2025-10-24 14:50:54] Starting test: Invalid username and password
+[INFO] [2025-10-24 14:50:54] Starting test: Empty username and password
+[PASS] [2025-10-24 14:50:58] Validation displayed correctly: 
+[PASS] [2025-10-24 14:50:58] Error displayed correctly: 
+
+==== NEGATIVE LOGIN TEST 2 ====
+
+
+==== NEGATIVE LOGIN TEST 1 ====
+
